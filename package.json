@@ -7,7 +7,7 @@
     "node": ">=0.8.0"
   },
   "dependencies": {
-    "actionhero": "7.6.2",
+    "actionhero": "9.0.0",
     "grunt":      "latest"
   },
   "devDependencies": {
